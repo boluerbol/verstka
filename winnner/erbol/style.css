@@ -1249,7 +1249,7 @@ footer{
     width: 440px;
   }
   .n5{
-    width: 449px;
+    display: none;
   }
   .capital{
     font-size: 30px;
